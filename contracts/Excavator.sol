@@ -2,6 +2,7 @@ pragma solidity ^0.4.19;
 
 import "./SafeMath.sol";
 import "./PermissionGroups.sol";
+import "./Medal.sol";
 
 // Excavator 挖掘机
 contract Excavator is PermissionGroups {
